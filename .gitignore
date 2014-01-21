@@ -1,0 +1,6 @@
+#ignoring
+.metadata/*
+.classpath
+.project
+*.prefs
+*.class
