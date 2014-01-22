@@ -6,6 +6,7 @@ import java.util.Date;
 
 import logging.Log;
 import basics.DEFINE;
+import web.Client;
 
 public class Control {
 	public static void main(String[] args){
@@ -17,6 +18,15 @@ public class Control {
 		DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
 		ll.write(2, "Starting at " + dateFormat.format(new Date()) + "\r\n");
 		long time_start = System.currentTimeMillis(), time_elapsed;
+		
+		time_elapsed = System.currentTimeMillis();
+		ll.write(2, "Starting Client.\r\n");
+		Client cc = new Client(DEFINE.BASE_URL, ll);
+		cc.printPage("page.txt");
+		ll.write(2, "Client ready. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
+		
+		if(cc.islogin())
+			cc.login(DEFINE.USERNAME, DEFINE.PASSWORD);
 		
 		/*
 		time_elapsed = System.currentTimeMillis();

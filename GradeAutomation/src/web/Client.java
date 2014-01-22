@@ -12,9 +12,12 @@ import java.awt.event.KeyEvent;
 import logging.Log;
 
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 
-import basics.DEFINE;
+
+//import basics.DEFINE;
 import string_operations.StrOps;
 
 
@@ -33,7 +36,7 @@ public class Client {
 		
 		ll.write(2, "Loading page " + base_URL + "\r\n");
 		web.get(base_URL);	
-		image_number = 0;
+		System.out.println(web.getTitle());
 	}
 	
 	public void printPage(String file){
@@ -51,5 +54,24 @@ public class Client {
 	public void close(){
 		ll.write(2, "Closing driver");
 		web.close();
+	}
+	
+	public boolean islogin(){
+		String title = web.getTitle();
+		if(StrOps.patternMatch(title, "*TWiki login*"))
+			return true;
+		return false;
+	}
+	
+	public void login(String username, String password){
+		ll.write(2, "Getting username");
+        WebElement query = web.findElement(By.name("username"));
+        query.sendKeys(username);
+
+        ll.write(2, "Getting password");
+        WebElement pass = web.findElement(By.name("password"));
+        pass.sendKeys(password);
+        
+        pass.submit();
 	}
 }

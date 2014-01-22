@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml"><head>
+<script src="/twiki/pub/TWiki/JQueryPlugin/jquery.js" type="text/javascript"></script>
+<script src="/twiki/pub/TWiki/JQueryPlugin/jquery-migrate.js" type="text/javascript"></script>
+<link media="all" type="text/css" href="/twiki/pub/TWiki/JQueryPlugin/jquery-all.css" rel="stylesheet" />
+<script src="/twiki/pub/TWiki/JQueryPlugin/jquery-all.js" type="text/javascript"></script>
+<title>(TWiki login) BackgroundQuizMaster &lt; EC504admin &lt; TWiki</title>
+<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type" />
+<link type="image/x-icon" href="" rel="icon" />
+<link type="image/x-icon" href="" rel="shortcut icon" />
+<link title="Edit BackgroundQuizMaster" type="application/x-wiki" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390366765" rel="alternate" />
+<link title="Edit BackgroundQuizMaster" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390366765" rel="edit" />
+<meta content="/twiki/bin" name="SCRIPTURLPATH" />
+<meta content="" name="SCRIPTSUFFIX" />
+<meta content="Jump" name="TEXT_JUMP" />
+<meta content="Search" name="TEXT_SEARCH" />
+<meta content="Number of topics:" name="TEXT_NUM_TOPICS" />
+<meta content="Modify search" name="TEXT_MODIFY_SEARCH" />
+<meta content="noindex" name="robots" /><link href="/twiki/bin/view/EC504admin/WebRss" title="RSS Feed" type="application/rss+xml" rel="alternate" />
+<base href="http://algorithmics.bu.edu/twiki/bin/login/EC504admin/BackgroundQuizMaster" />
+<!--BEHAVIOURCONTRIB--><script src="/twiki/pub/TWiki/BehaviourContrib/behaviour.compressed.js" type="text/javascript"></script>
+<script src="/twiki/pub/TWiki/TWikiJavascripts/twikilib.js" type="text/javascript"></script>
+<script src="/twiki/pub/TWiki/TWikiJavascripts/twikiWindow.js" type="text/javascript"></script>
+<script src="/twiki/pub/TWiki/TWikiJavascripts/twikiEvent.js" type="text/javascript"></script>
+<script src="/twiki/pub/TWiki/TWikiJavascripts/twikiHTML.js" type="text/javascript"></script>
+<script src="/twiki/pub/TWiki/TWikiJavascripts/twikiCSS.js" type="text/javascript"></script>
+<script src="/twiki/pub/TWiki/TWikiJavascripts/twikiForm.js" type="text/javascript"></script>
+<script src="/twiki/pub/TWiki/PatternSkin/pattern.js" type="text/javascript"></script><style media="all" type="text/css">
+@import url('/twiki/pub/TWiki/TWikiTemplates/base.css');
+</style>
+<style media="all" type="text/css">
+
+
+</style>
+<style media="all" type="text/css">
+@import url('/twiki/pub/TWiki/PatternSkin/layout.css');
+@import url('/twiki/pub/TWiki/PatternSkin/style.css');
+@import url('/twiki/pub/TWiki/PatternSkin/colors.css');
+</style>
+<style media="all" type="text/css">
+	/* Styles that are set using variables */
+	.patternBookView .twikiTopRow,
+	.patternWebIndicator a img,
+	.patternWebIndicator a:hover img {
+		background-color:#D0D0D0;
+	}
+	#patternTopBarContents { background-image:url(/twiki/pub/TWiki/PatternSkin/TWiki_header.gif); background-repeat:no-repeat;}
+	
+	.patternBookView {
+		border-color:#D0D0D0;
+	}
+	.patternPreviewPage #patternMain {
+		/* uncomment to set the preview image */
+		/*background-image:url("/twiki/pub/TWiki/PreviewBackground/preview2bg.gif");*/
+	}
+	
+</style><style media="all" type="text/css">
+
+
+
+</style>
+<style media="all" type="text/css">
+	@import url("/twiki/pub/TWiki/PatternSkin/print.css");
+</style>
+<!--[if IE]><style type="text/css" media="screen">
+pre {
+	overflow-x:auto;
+	padding-bottom:expression(this.scrollWidth > this.offsetWidth ? 16 : 0);
+}
+</style>
+<![endif]-->
+<!--[if lte IE 6]> 
+<style type="text/css">
+#patternLeftBar {
+	position:relative; /* IE 5.5 needs this or the contents won't show outside the parent container on print. IE 6.0 needs it only during printable copy! */
+}
+</style><![endif]-->
+<script src="/twiki/pub/TWiki/TWikiJavascripts/twikiStyles.js" type="text/javascript"></script><style media="all" type="text/css">.twikiMakeVisible{display:inline;}.twikiMakeVisibleInline{display:inline;}.twikiMakeVisibleBlock{display:block;}.twikiMakeHidden{display:none;}</style>
+<!--GENERATED_HEADERS--><!-- TWISTYPLUGIN_TWISTY --> <style media="all" type="text/css">
+@import url("http://algorithmics.bu.edu/twiki/pub/TWiki/TwistyContrib/twist.css");
+</style>
+<script src="http://algorithmics.bu.edu/twiki/pub/TWiki/BehaviourContrib/behaviour.compressed.js" type="text/javascript"></script>
+<script src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiJavascripts/twikilib.js" type="text/javascript"></script>
+<script src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiJavascripts/twikiPref.js" type="text/javascript"></script>
+<script src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiJavascripts/twikiCSS.js" type="text/javascript"></script>
+<script src="http://algorithmics.bu.edu/twiki/pub/TWiki/TwistyContrib/twist.compressed.js" type="text/javascript"></script>
+<script type="text/javascript">
+// &lt;![CDATA[
+var styleText = '&lt;style type="text/css" media="all"&gt;.twikiMakeVisible{display:inline;}.twikiMakeVisibleInline{display:inline;}.twikiMakeVisibleBlock{display:block;}.twikiMakeHidden{display:none;}&lt;/style&gt;';
+document.write(styleText);
+// ]]&gt;
+</script><style media="all" type="text/css">.twikiMakeVisible{display:inline;}.twikiMakeVisibleInline{display:inline;}.twikiMakeVisibleBlock{display:block;}.twikiMakeHidden{display:none;}</style>
+
+<!-- FOOTNOTEPLUGIN_LINKCSS --> <link media="all" type="text/css" href="http://algorithmics.bu.edu/twiki/pub/TWiki/FootNotePlugin/styles.css" rel="stylesheet" />
+</head>
+<body class="patternNoViewPage patternLoginPage">
+<a name="PageTop"></a>
+<div id="patternScreen">
+<div id="patternPageShadow">
+<div id="patternPage">
+<div id="patternOuter">
+<div id="patternFloatWrap">
+<div id="patternMain">
+<div id="patternMainContents"><div class="patternSimpleLogo"><img border="0" alt="" src="" /></div><div class="patternTopic"><h1 class="patternTemplateTitle"></h1> <div id="twikiLogin">
+<div class="twikiFormSteps"><form method="post" name="loginform" action="/twiki/bin/login/EC504admin/BackgroundQuizMaster"><div class="twikiFormStep">
+<h2><a name="Please_enter_your_username_and_p"></a> Please enter your username and password </h2>
+<p>
+</p><div style="display:block;">
+</div>
+</div><!-- /twikiFormStep-->
+<div class="twikiFormStep">
+<span class="twikiActionFormStepSign">?</span><h3><a name="Username"></a> Username </h3>
+<p>
+<input type="text" value="" name="username" size="40" class="twikiInputField twikiFocus" tabindex="1" /> <span class="twistyPlugin twikiMakeVisibleInline">  <span class="twistyRememberSetting twistyTrigger twikiUnvisited twistyInited" id="twistyIdEC504adminBackgroundQuizMaster1show"><a href="#"><span class="twikiLinkLabel twikiUnvisited">Help</span></a> </span> <span class="twistyRememberSetting twistyTrigger twikiUnvisited twistyHidden twistyInited" id="twistyIdEC504adminBackgroundQuizMaster1hide"><a href="#"><span class="twikiLinkLabel twikiUnvisited">Hide help</span></a> </span>  </span><!--/twistyPlugin twikiMakeVisibleInline--> <span class="twistyPlugin"><span class="twistyRememberSetting twistyContent twistyInited twistyHidden" id="twistyIdEC504adminBackgroundQuizMaster1toggle"> </span></span></p><div class="twikiHelp">Enter your <a class="twikiLink" href="/twiki/bin/view/TWiki/LoginName">LoginName</a>. (Typically First name and last name, no space, no dots, capitalized, e.g. JohnSmith, unless you chose otherwise). Visit <a class="twikiLink" href="/twiki/bin/view/TWiki/TWikiRegistration">TWikiRegistration</a> if you do not have one.</div>  <!--/twistyPlugin-->
+<p>
+</p></div><!-- /twikiFormStep--><div class="twikiFormStep">
+<span class="twikiActionFormStepSign">?</span><h3><a name="Password"></a> Password </h3>
+<p>
+<input type="password" value="" name="password" size="40" class="twikiInputField" tabindex="2" /> <span class="twikiUnvisited"><a class="twikiLink" href="/twiki/bin/view/TWiki/ResetPassword">I forgot my password</a></span>
+</p><p>
+</p></div><!-- /twikiFormStep--><div class="twikiFormStep"><input type="submit" value="Logon" class="twikiSubmit" tabindex="4" /></div><!-- /twikiFormStep-->
+
+
+<input type="hidden" value="/twiki/bin/view/EC504admin/BackgroundQuizMaster" name="origurl" /></form>
+<div class="twikiFormStep twikiGrayText twikiLast">  If you have any questions, please contact <a href="mailto:bodek@ipsit.bu.edu">bodek@ipsit.bu.edu</a>  </div><!-- /twikiFormStep-->
+</div><!-- /twikiFormSteps-->
+<p>
+</p></div><!-- /twikiLogin--></div><!-- /patternTopic-->
+</div><!-- /patternMainContents-->
+</div><!-- /patternMain-->
+</div><!-- /patternFloatWrap-->
+<div class="clear"> </div>
+</div><!-- /patternOuter-->
+</div><!-- /patternPage-->
+</div><!-- /patternPageShadow-->
+</div><!-- /patternScreen-->
+</body></html>

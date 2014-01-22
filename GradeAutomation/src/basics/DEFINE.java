@@ -5,4 +5,7 @@ public class DEFINE {
 	public static final String LOG_FILE_PATH = "log.txt";
 	
 	public static final String BASE_URL = "http://algorithmics.bu.edu/twiki/bin/login/EC504admin/BackgroundQuizMaster?origurl=/twiki/bin/view/EC504admin/BackgroundQuizMaster";
+
+	public static final String USERNAME = "MikhailAndreev";
+	public static final String PASSWORD = "TheFlowersFromTheTreeOfEden";
 }
