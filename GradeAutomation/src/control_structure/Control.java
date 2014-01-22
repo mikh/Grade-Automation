@@ -7,6 +7,7 @@ import java.util.Date;
 import logging.Log;
 import basics.DEFINE;
 import web.Client;
+import parser.LinkParser;
 
 public class Control {
 	public static void main(String[] args){
@@ -22,11 +23,21 @@ public class Control {
 		time_elapsed = System.currentTimeMillis();
 		ll.write(2, "Starting Client.\r\n");
 		Client cc = new Client(DEFINE.BASE_URL, ll);
-		cc.printPage("page.txt");
 		ll.write(2, "Client ready. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
 		
+		time_elapsed = System.currentTimeMillis();
+		ll.write(2, "Dealing with login");
 		if(cc.islogin())
 			cc.login(DEFINE.USERNAME, DEFINE.PASSWORD);
+		cc.printPage("page.txt");
+		ll.write(2, "Login complete. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
+		
+		time_elapsed = System.currentTimeMillis();
+		ll.write(2, "Starting Link Parser.\r\n");
+		LinkParser lp = new LinkParser(cc.getPageSource(), ll);
+		ll.write(2, "Link Parser ready. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
+		
+		
 		
 		/*
 		time_elapsed = System.currentTimeMillis();

@@ -36,7 +36,6 @@ public class Client {
 		
 		ll.write(2, "Loading page " + base_URL + "\r\n");
 		web.get(base_URL);	
-		System.out.println(web.getTitle());
 	}
 	
 	public void printPage(String file){
@@ -57,6 +56,7 @@ public class Client {
 	}
 	
 	public boolean islogin(){
+		ll.write(2, "Checking if logged in");
 		String title = web.getTitle();
 		if(StrOps.patternMatch(title, "*TWiki login*"))
 			return true;
@@ -64,6 +64,7 @@ public class Client {
 	}
 	
 	public void login(String username, String password){
+		ll.write(2, "Logging in");
 		ll.write(2, "Getting username");
         WebElement query = web.findElement(By.name("username"));
         query.sendKeys(username);
@@ -73,5 +74,9 @@ public class Client {
         pass.sendKeys(password);
         
         pass.submit();
+	}
+	
+	public String getPageSource(){
+		return web.getPageSource();
 	}
 }
