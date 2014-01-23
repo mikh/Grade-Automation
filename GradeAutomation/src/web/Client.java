@@ -51,12 +51,12 @@ public class Client {
 	}
 	
 	public void close(){
-		ll.write(2, "Closing driver");
+		ll.write(2, "Closing driver\r\n");
 		web.close();
 	}
 	
 	public boolean islogin(){
-		ll.write(2, "Checking if logged in");
+		ll.write(2, "Checking if logged in\r\n");
 		String title = web.getTitle();
 		if(StrOps.patternMatch(title, "*TWiki login*"))
 			return true;
@@ -64,12 +64,12 @@ public class Client {
 	}
 	
 	public void login(String username, String password){
-		ll.write(2, "Logging in");
-		ll.write(2, "Getting username");
+		ll.write(2, "Logging in\r\n");
+		ll.write(2, "Getting username\r\n");
         WebElement query = web.findElement(By.name("username"));
         query.sendKeys(username);
 
-        ll.write(2, "Getting password");
+        ll.write(2, "Getting password\r\n");
         WebElement pass = web.findElement(By.name("password"));
         pass.sendKeys(password);
         

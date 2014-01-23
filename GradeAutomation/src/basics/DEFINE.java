@@ -8,4 +8,6 @@ public class DEFINE {
 
 	public static final String USERNAME = "MikhailAndreev";
 	public static final String PASSWORD = "TheFlowersFromTheTreeOfEden";
+	
+	public static final String ASSIGNMENT_NAME = "BackgroundQuiz";
 }

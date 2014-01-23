@@ -26,7 +26,7 @@ public class Control {
 		ll.write(2, "Client ready. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
 		
 		time_elapsed = System.currentTimeMillis();
-		ll.write(2, "Dealing with login");
+		ll.write(2, "Dealing with login\r\n");
 		if(cc.islogin())
 			cc.login(DEFINE.USERNAME, DEFINE.PASSWORD);
 		cc.printPage("page.txt");
@@ -37,7 +37,7 @@ public class Control {
 		LinkParser lp = new LinkParser(cc.getPageSource(), ll);
 		ll.write(2, "Link Parser ready. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
 		
-		
+		lp.parse_links();
 		
 		/*
 		time_elapsed = System.currentTimeMillis();
@@ -62,6 +62,7 @@ public class Control {
 		ll.write(2, "Performing cleanup.\r\n\r\n");
 		time_elapsed = System.currentTimeMillis();
 		
+		cc.close();
 		ll.close();
 		
 		System.out.println("Cleanup complete. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.");

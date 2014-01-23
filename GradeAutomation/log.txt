@@ -1,13 +1,22 @@
 
 Starting Grade Automation Engine v0.0
-Starting at 2014/01/22 00:15:12
+Starting at 2014/01/23 10:37:11
 Starting Client.
 Starting web driver
 Loading page http://algorithmics.bu.edu/twiki/bin/login/EC504admin/BackgroundQuizMaster?origurl=/twiki/bin/view/EC504admin/BackgroundQuizMaster
-Client ready. Took 15958ms.
-Checking if logged inLogging inGetting usernameGetting passwordWriting page source to file.
+Client ready. Took 18300ms.
+Dealing with login
+Checking if logged in
+Logging in
+Getting username
+Getting password
+Writing page source to file.
+Login complete. Took 2234ms.
 Starting Link Parser.
-Link Parser ready. Took 30ms.
-All operations complete at 2014/01/22 00:15:31. Took 18347ms.
+Link Parser ready. Took 38ms.
+Parsing Links
+Writing to str.txt
+All operations complete at 2014/01/23 10:37:34. Took 22789ms.
 Performing cleanup.
 
+Closing driver
