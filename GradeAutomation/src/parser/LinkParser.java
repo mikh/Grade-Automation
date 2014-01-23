@@ -5,6 +5,7 @@ import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 
 import logging.Log;
 import string_operations.StrOps;
@@ -13,10 +14,14 @@ import basics.DEFINE;
 public class LinkParser {
 	String source;
 	Log ll;
+	ArrayList<String> names;
+	ArrayList<String> links;
 	
 	public LinkParser(String source, Log ll){
 		this.source = source;
 		this.ll = ll;
+		names = new ArrayList<String>();
+		links = new ArrayList<String>();
 	}
 	
 	public void parse_links(){
@@ -37,15 +42,46 @@ public class LinkParser {
 			BufferedReader br = new BufferedReader(new FileReader("str.txt"));
 			String line = br.readLine();
 			while(line != null){
-				if(!StrOps.patternMatch(line, "class*")){
-					ll.write(1,"Links do not follow template. Cannot find \'class\' " + line + "\r\n");
-					System.exit(-1);
+				if(!line.equals("")){
+					boolean page_exists = true;
+					String link = "";
+					if(!StrOps.patternMatch(line, "*class*")){
+						ll.write(1,"Links do not follow template. Cannot find \'class\' " + line + "\r\n");
+						System.exit(-1);
+					}
+					String class_type = StrOps.getDilineatedSubstring(line, "\"", 1, false);
+					if(class_type.equals("twikiLink")){
+						if(!StrOps.patternMatch(line, "*href*")){
+							ll.write(1,"Links do not follow template. Cannot find \'href\' " + line + "\r\n");
+							System.exit(-1);
+						}
+						link = DEFINE.SITE_BASE + StrOps.getDilineatedSubstring(line, "\"", 3, false);
+					} else if(class_type.equals("twikiNewLink")){
+						page_exists = false;
+					} else{
+						ll.write(1, "class type not understood " + class_type + "\r\n");
+						System.exit(-1);
+					}
+					
+					String name = StrOps.getDilineatedSubstring(line, ">", 0, true);
+					
+					if(!StrOps.patternMatch(name, "*" + DEFINE.ASSIGNMENT_NAME + "*")){
+						ll.write(1,"Links do not follow template. Cannot find " + DEFINE.ASSIGNMENT_NAME + " " + line + "\r\n");
+						System.exit(-1);
+					}
+					name = StrOps.deleteAllInstances(name, DEFINE.ASSIGNMENT_NAME);
+					
+					names.add(name);
+					if(page_exists)
+						links.add(link);
+					else
+						links.add("");
 				}
-				
 				
 				line = br.readLine();
 				
 			}
+			br.close();
 		} catch(IOException e){
 			ll.write(1,"Error with reading str.txt\r\n");
 			System.exit(-1);

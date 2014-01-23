@@ -8,8 +8,8 @@
 <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type" />
 <link type="image/x-icon" href="" rel="icon" />
 <link type="image/x-icon" href="" rel="shortcut icon" />
-<link title="Edit BackgroundQuizMaster" type="application/x-wiki" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390491457" rel="alternate" />
-<link title="Edit BackgroundQuizMaster" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390491457" rel="edit" />
+<link title="Edit BackgroundQuizMaster" type="application/x-wiki" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390506779" rel="alternate" />
+<link title="Edit BackgroundQuizMaster" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390506779" rel="edit" />
 <meta content="/twiki/bin" name="SCRIPTURLPATH" />
 <meta content="" name="SCRIPTSUFFIX" />
 <meta content="Jump" name="TEXT_JUMP" />
@@ -223,7 +223,7 @@ pre {
 <div id="patternWrapper"><div id="patternOuter">
 <div id="patternFloatWrap">
 <div id="patternMain"><div id="patternClearHeaderCenter"></div>
-<div id="patternMainContents"><div style="margin-bottom: 0.4em;" class="patternTop"><span class="patternHomePath twikiLeft"><a class="twikiLink" href="/twiki/bin/view/Main/WebHome">TWiki</a><span class="twikiSeparator">&gt;</span><img height="13" width="13" border="0" style="background-color:#D0D0D0" alt="" src="/twiki/pub/TWiki/TWikiDocGraphics/web-bg-small.gif" /> <a href="/twiki/bin/view/EC504admin/WebHome">EC504admin Web</a><span class="twikiSeparator">&gt;</span><a title="Topic revision: 1 (2014-01-17 - 02:35:11)" href="http://algorithmics.bu.edu/twiki/bin/view/EC504admin/BackgroundQuizMaster">BackgroundQuizMaster</a> <span class="patternRevInfo">(2014-01-17, <a class="twikiLink" href="/twiki/bin/view/Main/AriTrachtenberg">AriTrachtenberg</a>)</span></span>
+<div id="patternMainContents"><div style="margin-bottom: 0.4em;" class="patternTop"><span class="patternHomePath twikiLeft"><a class="twikiLink" href="/twiki/bin/view/Main/WebHome">TWiki</a><span class="twikiSeparator">&gt;</span><img width="13" height="13" border="0" style="background-color:#D0D0D0" alt="" src="/twiki/pub/TWiki/TWikiDocGraphics/web-bg-small.gif" /> <a href="/twiki/bin/view/EC504admin/WebHome">EC504admin Web</a><span class="twikiSeparator">&gt;</span><a title="Topic revision: 1 (2014-01-17 - 02:35:11)" href="http://algorithmics.bu.edu/twiki/bin/view/EC504admin/BackgroundQuizMaster">BackgroundQuizMaster</a> <span class="patternRevInfo">(2014-01-17, <a class="twikiLink" href="/twiki/bin/view/Main/AriTrachtenberg">AriTrachtenberg</a>)</span></span>
 <!-- /patternHomePath--><br class="twikiClear" /></div><!--/patternTop--><div class="twikiContentHeader"><div class="tagmetags"> Tags: <form method="post" action="http://algorithmics.bu.edu/twiki/bin/viewauth/EC504admin/BackgroundQuizMaster" style="display:inline" name="tagmeshow"> <span class="tagMeControl"><a href="http://algorithmics.bu.edu/twiki/bin/viewauth/TWiki/TagMeCreateNewTag?from=EC504admin.BackgroundQuizMaster" rel="nofollow">create new tag</a></span></form>, <a class="twikiLink" href="/twiki/bin/view/TWiki/TagMeViewAllTags">view all tags</a> </div></div><div class="patternContent"><div class="patternTopic"> <h1><a name="Background_Quiz_Master"></a> Background Quiz Master </h1>
 This is a master list of students, with links to their background quiz.
 <p>
@@ -299,8 +299,8 @@ This is a master list of students, with links to their background quiz.
 </li></ul>  </div><!-- /patternTopic-->
 <div class="twikiContentFooter"></div></div><!-- /patternContent-->
 <div class="clear"></div>
-<a name="topic-actions"></a><div class="patternTopicActions"><div class="patternTopicAction"><span class="patternActionButtons"><span><a accesskey="e" title="Edit this topic text" rel="nofollow" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390491457"><img height="14" width="14" border="0" alt="" src="/twiki/pub/TWiki/TWikiDocGraphics/uweb-o14.gif" /> <span class="twikiAccessKey">E</span>dit</a></span><span class="twikiSeparator"> | </span><span><a accesskey="a" title="Attach an image or document to this topic" rel="nofollow" href="/twiki/bin/attach/EC504admin/BackgroundQuizMaster"><span class="twikiAccessKey">A</span>ttach</a></span><span class="twikiSeparator"> | </span><span><a target="_top" href="http://algorithmics.bu.edu/twiki/bin/viewauth/EC504admin/BackgroundQuizMaster?watchlist_action=togglewatch;watchlist_topic=EC504admin.BackgroundQuizMaster">Watch</a></span><span class="twikiSeparator"> | </span><span><a accesskey="p" title="Printable version of this topic" rel="nofollow" href="/twiki/bin/view/EC504admin/BackgroundQuizMaster?cover=print"><span class="twikiAccessKey">P</span>rint version</a></span><span class="twikiSeparator"> | </span><span><span><a accesskey="h" title="View total topic history" rel="nofollow" href="/twiki/bin/oops/EC504admin/BackgroundQuizMaster?template=oopshistory"><span class="twikiAccessKey">H</span>istory</a></span>: r1</span><span class="twikiSeparator"> | </span><span><a accesskey="b" title="Search the EC504admin Web for topics that link to here" rel="nofollow" href="/twiki/bin/oops/EC504admin/BackgroundQuizMaster?template=backlinksweb"><span class="twikiAccessKey">B</span>acklinks</a></span><span class="twikiSeparator"> | </span><span><a accesskey="r" title="View raw text without formatting" rel="nofollow" href="/twiki/bin/view/EC504admin/BackgroundQuizMaster?raw=on"><span class="twikiAccessKey">R</span>aw View</a></span><span class="twikiSeparator"> | </span><span><a accesskey="m" title="Delete or rename this topic; set parent topic; view and compare revisions" rel="nofollow" href="/twiki/bin/oops/EC504admin/BackgroundQuizMaster?template=oopsmore&amp;param1=1&amp;param2=1"><span class="twikiAccessKey">M</span>ore topic actions</a></span></span></div><!--/patternTopicAction--></div><!--/patternTopicActions-->
-<div class="patternInfo twikiGrayText"><div class="patternRevInfo">Topic revision: r1 - 2014-01-17 <a target="_top" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390491457;nowysiwyg=1">-</a> <a class="twikiLink" href="/twiki/bin/view/Main/AriTrachtenberg">AriTrachtenberg</a></div><!-- /patternRevInfo--></div><!-- /patternInfo-->
+<a name="topic-actions"></a><div class="patternTopicActions"><div class="patternTopicAction"><span class="patternActionButtons"><span><a accesskey="e" title="Edit this topic text" rel="nofollow" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390506779"><img width="14" height="14" border="0" alt="" src="/twiki/pub/TWiki/TWikiDocGraphics/uweb-o14.gif" /> <span class="twikiAccessKey">E</span>dit</a></span><span class="twikiSeparator"> | </span><span><a accesskey="a" title="Attach an image or document to this topic" rel="nofollow" href="/twiki/bin/attach/EC504admin/BackgroundQuizMaster"><span class="twikiAccessKey">A</span>ttach</a></span><span class="twikiSeparator"> | </span><span><a target="_top" href="http://algorithmics.bu.edu/twiki/bin/viewauth/EC504admin/BackgroundQuizMaster?watchlist_action=togglewatch;watchlist_topic=EC504admin.BackgroundQuizMaster">Watch</a></span><span class="twikiSeparator"> | </span><span><a accesskey="p" title="Printable version of this topic" rel="nofollow" href="/twiki/bin/view/EC504admin/BackgroundQuizMaster?cover=print"><span class="twikiAccessKey">P</span>rint version</a></span><span class="twikiSeparator"> | </span><span><span><a accesskey="h" title="View total topic history" rel="nofollow" href="/twiki/bin/oops/EC504admin/BackgroundQuizMaster?template=oopshistory"><span class="twikiAccessKey">H</span>istory</a></span>: r1</span><span class="twikiSeparator"> | </span><span><a accesskey="b" title="Search the EC504admin Web for topics that link to here" rel="nofollow" href="/twiki/bin/oops/EC504admin/BackgroundQuizMaster?template=backlinksweb"><span class="twikiAccessKey">B</span>acklinks</a></span><span class="twikiSeparator"> | </span><span><a accesskey="r" title="View raw text without formatting" rel="nofollow" href="/twiki/bin/view/EC504admin/BackgroundQuizMaster?raw=on"><span class="twikiAccessKey">R</span>aw View</a></span><span class="twikiSeparator"> | </span><span><a accesskey="m" title="Delete or rename this topic; set parent topic; view and compare revisions" rel="nofollow" href="/twiki/bin/oops/EC504admin/BackgroundQuizMaster?template=oopsmore&amp;param1=1&amp;param2=1"><span class="twikiAccessKey">M</span>ore topic actions</a></span></span></div><!--/patternTopicAction--></div><!--/patternTopicActions-->
+<div class="patternInfo twikiGrayText"><div class="patternRevInfo">Topic revision: r1 - 2014-01-17 <a target="_top" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390506779;nowysiwyg=1">-</a> <a class="twikiLink" href="/twiki/bin/view/Main/AriTrachtenberg">AriTrachtenberg</a></div><!-- /patternRevInfo--></div><!-- /patternInfo-->
 </div><!-- /patternMainContents-->
 </div><!-- /patternMain-->
 </div><!-- /patternFloatWrap-->
@@ -335,32 +335,32 @@ document.onclick = twTopMenuClose;
 <div id="topmenu-bar" style="position: fixed; width: 100%; height: 22px; background-image: url(/twiki/pub/TWiki/TopMenuSkin/menu-gray-bg.png); background-repeat: repeat-x; display: block;">
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr style="background-image: url(/twiki/pub/TWiki/TopMenuSkin/menu-gray-bg.png); background-repeat: repeat-x;">
-<td width="35"><img height="22" width="35" alt="" src="/twiki/pub/TWiki/TopMenuSkin/menu-start.png" /></td>
+<td width="35"><img width="35" height="22" alt="" src="/twiki/pub/TWiki/TopMenuSkin/menu-start.png" /></td>
 <td width="80%">
 <div class="twTopMenuTab"> <ul>
 <li> <a title="TWiki home --- Tip: This menu-bar is also a 'You are here' breadcrumb" href="">Home <img src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/menu-down.gif" alt="menu-down.gif" /></a> <ul>
-<li> <a title="Site map listing all webs" href="/twiki/bin/view/TWiki/SiteMap"><img height="16" width="16" border="0" title="Site tree" alt="Site tree" src="/twiki/pub/TWiki/TWikiDocGraphics/sitetree.gif" /> Site map</a>
-</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/EC330/WebHome"><img height="16" width="16" border="0" style="background-color:#D0D0D0" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> EC330 web</a></span>
-</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/EC504/WebHome"><img height="16" width="16" border="0" style="background-color:#D0D0D0" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> EC504 web</a></span>
-</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/EC504admin/WebHome"><img height="16" width="16" border="0" style="background-color:#D0D0D0" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> EC504admin web</a></span>
-</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/EK13x/WebHome"><img height="16" width="16" border="0" style="background-color:#D0D0D0" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> EK13x web</a></span>
-</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/Main/WebHome"><img height="16" width="16" border="0" style="background-color:#FFEFA6" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> Main web</a></span>
-</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/Sandbox/WebHome"><img height="16" width="16" border="0" style="background-color:#B9DAFF" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> Sandbox web</a></span>
-</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/TWiki/WebHome"><img height="16" width="16" border="0" style="background-color:#FFD8AA" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> TWiki web</a></span>
+<li> <a title="Site map listing all webs" href="/twiki/bin/view/TWiki/SiteMap"><img width="16" height="16" border="0" title="Site tree" alt="Site tree" src="/twiki/pub/TWiki/TWikiDocGraphics/sitetree.gif" /> Site map</a>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/EC330/WebHome"><img width="16" height="16" border="0" style="background-color:#D0D0D0" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> EC330 web</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/EC504/WebHome"><img width="16" height="16" border="0" style="background-color:#D0D0D0" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> EC504 web</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/EC504admin/WebHome"><img width="16" height="16" border="0" style="background-color:#D0D0D0" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> EC504admin web</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/EK13x/WebHome"><img width="16" height="16" border="0" style="background-color:#D0D0D0" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> EK13x web</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/Main/WebHome"><img width="16" height="16" border="0" style="background-color:#FFEFA6" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> Main web</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/Sandbox/WebHome"><img width="16" height="16" border="0" style="background-color:#B9DAFF" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> Sandbox web</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/TWiki/WebHome"><img width="16" height="16" border="0" style="background-color:#FFD8AA" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> TWiki web</a></span>
 </li></ul> 
-</li> <li> <img height="22" width="8" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TopMenuSkin/menu-right.png" />
-</li> <li> <a class="twikiCurrentWebHomeLink twikiLink" href="/twiki/bin/view/EC504admin/WebHome"><img height="16" width="16" border="0" style="background-color:#D0D0D0" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> EC504admin Web <img height="16" width="14" border="0" title="Menu dropdown" alt="Menu dropdown" src="/twiki/pub/TWiki/TWikiDocGraphics/menu-down.gif" /></a> <ul>
-<li> <a target="_top" href="/twiki/bin/view/EC504admin/WebCreateNewTopic?topicparent=BackgroundQuizMaster"> <img height="16" width="16" border="0" title="New topic" alt="New topic" src="/twiki/pub/TWiki/TWikiDocGraphics/newtopic.gif" /> Create New Topic</a>
-</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebTopicList"> <img height="16" width="16" border="0" title="Index" alt="Index" src="/twiki/pub/TWiki/TWikiDocGraphics/index.gif" /> Index</a>
-</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebSearch"> <img height="16" width="16" border="0" title="Search topic" alt="Search topic" src="/twiki/pub/TWiki/TWikiDocGraphics/searchtopic.gif" /> Search</a>
-</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebChanges"> <img height="16" width="16" border="0" title="Changes" alt="Changes" src="/twiki/pub/TWiki/TWikiDocGraphics/changes.gif" /> Changes</a>
-</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebNotify"> <img height="16" width="16" border="0" title="Notify" alt="Notify" src="/twiki/pub/TWiki/TWikiDocGraphics/notify.gif" /> Notifications</a>
-</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebRss"> <img height="16" width="16" border="0" title="RSS feed, rounded corners" alt="RSS feed, rounded corners" src="/twiki/pub/TWiki/TWikiDocGraphics/feed.gif" /> RSS Feed</a>
-</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebStatistics"> <img height="16" width="16" border="0" title="Statistics" alt="Statistics" src="/twiki/pub/TWiki/TWikiDocGraphics/statistics.gif" /> Statistics</a>
-</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebPreferences"> <img height="16" width="16" border="0" title="Wrench, tools" alt="Wrench, tools" src="/twiki/pub/TWiki/TWikiDocGraphics/wrench.gif" /> Preferences</a>
+</li> <li> <img width="8" height="22" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TopMenuSkin/menu-right.png" />
+</li> <li> <a class="twikiCurrentWebHomeLink twikiLink" href="/twiki/bin/view/EC504admin/WebHome"><img width="16" height="16" border="0" style="background-color:#D0D0D0" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" /> EC504admin Web <img width="14" height="16" border="0" title="Menu dropdown" alt="Menu dropdown" src="/twiki/pub/TWiki/TWikiDocGraphics/menu-down.gif" /></a> <ul>
+<li> <a target="_top" href="/twiki/bin/view/EC504admin/WebCreateNewTopic?topicparent=BackgroundQuizMaster"> <img width="16" height="16" border="0" title="New topic" alt="New topic" src="/twiki/pub/TWiki/TWikiDocGraphics/newtopic.gif" /> Create New Topic</a>
+</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebTopicList"> <img width="16" height="16" border="0" title="Index" alt="Index" src="/twiki/pub/TWiki/TWikiDocGraphics/index.gif" /> Index</a>
+</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebSearch"> <img width="16" height="16" border="0" title="Search topic" alt="Search topic" src="/twiki/pub/TWiki/TWikiDocGraphics/searchtopic.gif" /> Search</a>
+</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebChanges"> <img width="16" height="16" border="0" title="Changes" alt="Changes" src="/twiki/pub/TWiki/TWikiDocGraphics/changes.gif" /> Changes</a>
+</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebNotify"> <img width="16" height="16" border="0" title="Notify" alt="Notify" src="/twiki/pub/TWiki/TWikiDocGraphics/notify.gif" /> Notifications</a>
+</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebRss"> <img width="16" height="16" border="0" title="RSS feed, rounded corners" alt="RSS feed, rounded corners" src="/twiki/pub/TWiki/TWikiDocGraphics/feed.gif" /> RSS Feed</a>
+</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebStatistics"> <img width="16" height="16" border="0" title="Statistics" alt="Statistics" src="/twiki/pub/TWiki/TWikiDocGraphics/statistics.gif" /> Statistics</a>
+</li> <li> <a class="twikiLink" href="/twiki/bin/view/EC504admin/WebPreferences"> <img width="16" height="16" border="0" title="Wrench, tools" alt="Wrench, tools" src="/twiki/pub/TWiki/TWikiDocGraphics/wrench.gif" /> Preferences</a>
 </li></ul> 
 </li> <li> 
-</li> <li> <img height="22" width="8" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TopMenuSkin/menu-right.png" />
+</li> <li> <img width="8" height="22" alt="" src="http://algorithmics.bu.edu/twiki/pub/TWiki/TopMenuSkin/menu-right.png" />
 </li> <li> <a title="Topic BackgroundQuizMaster -- AriTrachtenberg - 2014-01-17 - r1" href="http://algorithmics.bu.edu/twiki/bin/view/EC504admin/BackgroundQuizMaster">View <img src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/menu-down.gif" alt="menu-down.gif" /></a> <ul>
 <li> <a title="View raw text without formatting" rel="nofollow" href="/twiki/bin/view/EC504admin/BackgroundQuizMaster?raw=on">Raw View</a>
 </li> <li> <a title="Printable version of this topic" rel="nofollow" href="/twiki/bin/view/EC504admin/BackgroundQuizMaster?cover=print">Print version</a>
@@ -368,20 +368,20 @@ document.onclick = twTopMenuClose;
 </li> <li> <a title="View total topic history" rel="nofollow" href="/twiki/bin/rdiff/EC504admin/BackgroundQuizMaster?type=history">History</a>
 </li> <li> <a title="Delete or rename this topic; set parent topic; view and compare revisions" rel="nofollow" href="/twiki/bin/oops/EC504admin/BackgroundQuizMaster?template=oopsmore&amp;param1=1&amp;param2=1">More topic actions</a>
 </li></ul> 
-</li> <li> <a title="Edit this topic text" rel="nofollow" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390491458">Edit <img src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/menu-down.gif" alt="menu-down.gif" /></a> <ul>
-<li> <a title="Raw Edit this topic text" rel="nofollow" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390491458;nowysiwyg=1">Raw edit</a>
+</li> <li> <a title="Edit this topic text" rel="nofollow" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390506780">Edit <img src="http://algorithmics.bu.edu/twiki/pub/TWiki/TWikiDocGraphics/menu-down.gif" alt="menu-down.gif" /></a> <ul>
+<li> <a title="Raw Edit this topic text" rel="nofollow" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390506780;nowysiwyg=1">Raw edit</a>
 </li> <li> <a title="Attach an image or document to this topic" rel="nofollow" href="/twiki/bin/attach/EC504admin/BackgroundQuizMaster">Attach file or image</a>
-</li> <li> <a target="_top" href="http://algorithmics.bu.edu/twiki/bin/manage/EC504admin/BackgroundQuizMaster?t=1390491458;action=editSettings">Edit topic preference settings</a>
+</li> <li> <a target="_top" href="http://algorithmics.bu.edu/twiki/bin/manage/EC504admin/BackgroundQuizMaster?t=1390506780;action=editSettings">Edit topic preference settings</a>
 </li> <li> <a target="_top" href="http://algorithmics.bu.edu/twiki/bin/oops/EC504admin/BackgroundQuizMaster?template=oopsmore#SetParent">Set new parent</a>
 </li> <li> <a title="Delete or rename this topic; set parent topic; view and compare revisions" rel="nofollow" href="/twiki/bin/oops/EC504admin/BackgroundQuizMaster?template=oopsmore&amp;param1=1&amp;param2=1">More topic actions</a>
 </li></ul> 
-</li> <li> <a title="Watch this topic" href="http://algorithmics.bu.edu/twiki/bin/viewauth/EC504admin/BackgroundQuizMaster?watchlist_action=togglewatch;watchlist_topic=EC504admin.BackgroundQuizMaster">Watch <img height="16" width="14" border="0" alt="" src="/twiki/pub/TWiki/TWikiDocGraphics/menu-down.gif" /></a> <ul>
+</li> <li> <a title="Watch this topic" href="http://algorithmics.bu.edu/twiki/bin/viewauth/EC504admin/BackgroundQuizMaster?watchlist_action=togglewatch;watchlist_topic=EC504admin.BackgroundQuizMaster">Watch <img width="14" height="16" border="0" alt="" src="/twiki/pub/TWiki/TWikiDocGraphics/menu-down.gif" /></a> <ul>
 <li> <a target="_top" href="http://algorithmics.bu.edu/twiki/bin/viewauth/Main/MikhailAndreevWatchlist?createifnotexist=1;templatetopic=TWiki.WatchlistTemplate;topicparent=MikhailAndreev">Watchlist Changes</a>
 </li></ul> 
 </li></ul> 
 <p>
 </p></div></td><td><div style="float:right" class="twTopMenuTab"> <ul>
-<li> <a class="twikiLink" href="/twiki/bin/view/Main/MikhailAndreev"> <img height="16" width="16" border="0" title="Person" alt="Person" src="/twiki/pub/TWiki/TWikiDocGraphics/person.gif" /> Account <img height="16" width="14" border="0" title="Menu dropdown" alt="Menu dropdown" src="/twiki/pub/TWiki/TWikiDocGraphics/menu-down.gif" /></a> <ul>
+<li> <a class="twikiLink" href="/twiki/bin/view/Main/MikhailAndreev"> <img width="16" height="16" border="0" title="Person" alt="Person" src="/twiki/pub/TWiki/TWikiDocGraphics/person.gif" /> Account <img width="14" height="16" border="0" title="Menu dropdown" alt="Menu dropdown" src="/twiki/pub/TWiki/TWikiDocGraphics/menu-down.gif" /></a> <ul>
 <li> <a class="twikiLink" href="/twiki/bin/view/Main/MikhailAndreev">Mikhail Andreev</a>
 </li> <li> <a href="/twiki/bin/view/EC504admin/BackgroundQuizMaster?logout=1">Log Out</a>
 </li> <li> <a class="twikiLink" href="/twiki/bin/view/TWiki/TWikiRegistration">Register User</a>
@@ -390,17 +390,17 @@ document.onclick = twTopMenuClose;
 </li></ul> 
 </li></ul> 
 </div></td><td><div class="twTopMenuTab"> <ul>
-<li> <a class="twikiLink" href="/twiki/bin/view/TWiki/WebHome"><img height="16" width="16" border="0" style="margin: 1px;" title="TWiki help" alt="Help" src="/twiki/pub/TWiki/TWikiDocGraphics/twiki-help.gif" /></a>
+<li> <a class="twikiLink" href="/twiki/bin/view/TWiki/WebHome"><img width="16" height="16" border="0" style="margin: 1px;" title="TWiki help" alt="Help" src="/twiki/pub/TWiki/TWikiDocGraphics/twiki-help.gif" /></a>
 </li></ul> 
 </div></td>
-<td width="40"><img height="1" width="40" alt="" src="/twiki/pub/TWiki/TopMenuSkin/spacer.gif" /></td>
+<td width="40"><img width="40" height="1" alt="" src="/twiki/pub/TWiki/TopMenuSkin/spacer.gif" /></td>
 </tr>
 </tbody></table>
 </div>
 </div>
 <div style="height: 22px;"></div>
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr style="background-image: url(/twiki/pub/TWiki/TopMenuSkin/banner-bg.png); background-repeat: repeat-x;"><td width="40"><img height="58" width="40" alt="" src="/twiki/pub/TWiki/TopMenuSkin/spacer.gif" /></td>
+<tbody><tr style="background-image: url(/twiki/pub/TWiki/TopMenuSkin/banner-bg.png); background-repeat: repeat-x;"><td width="40"><img width="40" height="58" alt="" src="/twiki/pub/TWiki/TopMenuSkin/spacer.gif" /></td>
 <td width="30">
 <span class="twikiImage" id="twikiLogo"><a href=""><img border="0" style="border:none;" title="" alt="" src="" /></a></span></td>
 <td align="right" class="patternMetaMenu" style="background-image: url(/twiki/pub/TWiki/TopMenuSkin/banner-net-bg.png); background-repeat: repeat-x;">
@@ -410,13 +410,13 @@ document.onclick = twTopMenuClose;
 </li> <li> 
 </li></ul> 
 </td>
-<td width="15"><img height="1" width="15" alt="" src="/twiki/pub/TWiki/TopMenuSkin/spacer.gif" /></td>
+<td width="15"><img width="15" height="1" alt="" src="/twiki/pub/TWiki/TopMenuSkin/spacer.gif" /></td>
 <td width="165" valign="bottom"><div id="twTopBarButtons"> <ul>
-<li> <span><a accesskey="e" title="Edit this topic text" rel="nofollow" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390491458"><img height="14" width="14" border="0" alt="" src="/twiki/pub/TWiki/TWikiDocGraphics/uweb-o14.gif" /> <span class="twikiAccessKey">E</span>dit</a></span>
+<li> <span><a accesskey="e" title="Edit this topic text" rel="nofollow" href="http://algorithmics.bu.edu/twiki/bin/edit/EC504admin/BackgroundQuizMaster?t=1390506780"><img width="14" height="14" border="0" alt="" src="/twiki/pub/TWiki/TWikiDocGraphics/uweb-o14.gif" /> <span class="twikiAccessKey">E</span>dit</a></span>
 </li> <li> <span><a accesskey="a" title="Attach an image or document to this topic" rel="nofollow" href="/twiki/bin/attach/EC504admin/BackgroundQuizMaster"><span class="twikiAccessKey">A</span>ttach</a></span>
 </li></ul> 
 </div></td>
-<td width="40"><img height="1" width="40" alt="" src="/twiki/pub/TWiki/TopMenuSkin/spacer.gif" /></td>
+<td width="40"><img width="40" height="1" alt="" src="/twiki/pub/TWiki/TopMenuSkin/spacer.gif" /></td>
 </tr>
 </tbody></table>
 <script type="text/javascript">
@@ -453,7 +453,7 @@ $('#topmenu-start').hover(
   function () { twToggleTopMenuBar(1); }, 
   function () { twToggleTopMenuBar(0); }
 );
-</script></div><!-- /twTopBar--><div id="patternBottomBar"><div id="patternBottomBarContents"><div id="patternWebBottomBar"><div class="twikiCopyright"><span class="twikiRight"> <a href="http://twiki.org/"><img height="31" width="88" border="0" title="This site is powered by the TWiki collaboration platform" alt="This site is powered by the TWiki collaboration platform" src="/twiki/pub/TWiki/TWikiLogos/T-badge-88x31.gif" /></a></span><span style="padding:0 10px 0 10px" class="twikiRight"> <a href="http://www.perl.org/"><img height="31" width="88" border="0" title="Powered by Perl" alt="Powered by Perl" src="/twiki/pub/TWiki/TWikiLogos/perl-logo-88x31.gif" /></a></span>Copyright © 2008-2014 by the contributing authors. All material on this collaboration platform is the property of the contributing authors. <br /> Ideas, requests, problems regarding TWiki? <a href="mailto:bodek@ipsit.bu.edu?subject=TWiki%20Feedback%20on%20EC504admin.BackgroundQuizMaster">Send feedback</a></div><!--/patternWebBottomBar--></div><!-- /patternBottomBarContents--></div><!-- /patternBottomBar-->
+</script></div><!-- /twTopBar--><div id="patternBottomBar"><div id="patternBottomBarContents"><div id="patternWebBottomBar"><div class="twikiCopyright"><span class="twikiRight"> <a href="http://twiki.org/"><img width="88" height="31" border="0" title="This site is powered by the TWiki collaboration platform" alt="This site is powered by the TWiki collaboration platform" src="/twiki/pub/TWiki/TWikiLogos/T-badge-88x31.gif" /></a></span><span style="padding:0 10px 0 10px" class="twikiRight"> <a href="http://www.perl.org/"><img width="88" height="31" border="0" title="Powered by Perl" alt="Powered by Perl" src="/twiki/pub/TWiki/TWikiLogos/perl-logo-88x31.gif" /></a></span>Copyright © 2008-2014 by the contributing authors. All material on this collaboration platform is the property of the contributing authors. <br /> Ideas, requests, problems regarding TWiki? <a href="mailto:bodek@ipsit.bu.edu?subject=TWiki%20Feedback%20on%20EC504admin.BackgroundQuizMaster">Send feedback</a></div><!--/patternWebBottomBar--></div><!-- /patternBottomBarContents--></div><!-- /patternBottomBar-->
 </div><!-- /patternPage-->
 </div><!-- /patternPageShadow-->
 </div><!-- /patternScreen-->

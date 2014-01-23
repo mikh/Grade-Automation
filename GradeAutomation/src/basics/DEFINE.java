@@ -10,4 +10,6 @@ public class DEFINE {
 	public static final String PASSWORD = "TheFlowersFromTheTreeOfEden";
 	
 	public static final String ASSIGNMENT_NAME = "BackgroundQuiz";
+	
+	public static final String SITE_BASE = "algorithmics.bu.edu";
 }
