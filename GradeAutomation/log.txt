@@ -1,22 +1,76 @@
 
 Starting Grade Automation Engine v0.0
-Starting at 2014/01/23 14:52:37
+Starting at 2014/01/24 13:43:12
 Starting Client.
 Starting web driver
 Loading page http://algorithmics.bu.edu/twiki/bin/login/EC504admin/BackgroundQuizMaster?origurl=/twiki/bin/view/EC504admin/BackgroundQuizMaster
-Client ready. Took 15117ms.
+Client ready. Took 17682ms.
 Dealing with login
 Checking if logged in
 Logging in
 Getting username
 Getting password
-Writing page source to file.
-Login complete. Took 2255ms.
+Login complete. Took 3715ms.
 Starting Link Parser.
-Link Parser ready. Took 67ms.
+Link Parser ready. Took 73ms.
 Parsing Links
 Writing to str.txt
-All operations complete at 2014/01/23 14:52:56. Took 19353ms.
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+Going into raw edit
+All operations complete at 2014/01/24 13:51:10. Took 477622ms.
 Performing cleanup.
 
 Closing driver

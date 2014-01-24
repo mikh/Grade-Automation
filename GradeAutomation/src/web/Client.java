@@ -79,4 +79,8 @@ public class Client {
 	public String getPageSource(){
 		return web.getPageSource();
 	}
+	
+	public void getPage(String url){
+		web.get(url);
+	}
 }

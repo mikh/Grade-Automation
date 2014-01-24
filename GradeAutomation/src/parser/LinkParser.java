@@ -16,12 +16,14 @@ public class LinkParser {
 	Log ll;
 	ArrayList<String> names;
 	ArrayList<String> links;
+	int list_index;
 	
 	public LinkParser(String source, Log ll){
 		this.source = source;
 		this.ll = ll;
 		names = new ArrayList<String>();
 		links = new ArrayList<String>();
+		list_index = 0;
 	}
 	
 	public void parse_links(){
@@ -77,9 +79,7 @@ public class LinkParser {
 					else
 						links.add("");
 				}
-				
 				line = br.readLine();
-				
 			}
 			br.close();
 		} catch(IOException e){
@@ -97,5 +97,15 @@ public class LinkParser {
 		} catch (IOException e) {
 			ll.write(1,"Write failed!");
 		}
+	}
+	
+	public ArrayList<String> get_next_link(){
+		if(list_index >= names.size())
+			return new ArrayList<String>();
+		ArrayList<String> list = new ArrayList<String>();
+		list.add(names.get(list_index));
+		list.add(links.get(list_index));
+		list_index++;
+		return list;
 	}
 }

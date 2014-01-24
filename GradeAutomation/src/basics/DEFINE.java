@@ -12,4 +12,6 @@ public class DEFINE {
 	public static final String ASSIGNMENT_NAME = "BackgroundQuiz";
 	
 	public static final String SITE_BASE = "algorithmics.bu.edu";
+	
+	public static final String OUTPUT_FILE_PATH = "C:\\Users\\Mikhail\\Desktop\\Dropbox\\EC504 Grading\\Submissions\\BackgroundQuiz";
 }
