@@ -4,11 +4,6 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
-
-import java.awt.AWTException;
-import java.awt.Robot;
-import java.awt.event.KeyEvent;
-
 import logging.Log;
 
 import org.openqa.selenium.firefox.FirefoxDriver;

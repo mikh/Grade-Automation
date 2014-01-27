@@ -13,6 +13,7 @@ import basics.DEFINE;
 import basics.Tools;
 import web.Client;
 import parser.LinkParser;
+import parser.ExcelParser;
 import robot.Robot_controller;
 
 
@@ -27,6 +28,7 @@ public class Control {
 		ll.write(2, "Starting at " + dateFormat.format(new Date()) + "\r\n");
 		long time_start = System.currentTimeMillis(), time_elapsed;
 		
+		/*
 		time_elapsed = System.currentTimeMillis();
 		ll.write(2, "Starting Client.\r\n");
 		Client cc = new Client(DEFINE.BASE_URL, ll);
@@ -42,8 +44,15 @@ public class Control {
 		ll.write(2, "Starting Link Parser.\r\n");
 		LinkParser lp = new LinkParser(cc.getPageSource(), ll);
 		ll.write(2, "Link Parser ready. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
-		
+				
+		time_elapsed = System.currentTimeMillis();
+		ll.write(2, "Parsing Links.\r\n");
 		lp.parse_links();
+		ll.write(2, "Parsing complete. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
+		
+		
+		time_elapsed = System.currentTimeMillis();
+		ll.write(2, "Acquiring pages.\r\n");
 		ArrayList<String> list = lp.get_next_link();
 		while(list.size() > 0){
 			if(!list.get(1).equals("")){
@@ -74,31 +83,19 @@ public class Control {
 			}
 			list = lp.get_next_link();
 		}
-		
-		/*
-		time_elapsed = System.currentTimeMillis();
-		ll.write(2, "Starting Exec.\r\n");
-		Exec ee = new Exec(ll);
-		ll.write(2, "Exec ready. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
-		
-		time_elapsed = System.currentTimeMillis();
-		ll.write(2, "Starting Client.\r\n");
-		String test_URL = Def.START_URL;
-		Client cc = new Client(test_URL, ll);
-		ll.write(2, "Client ready. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
-		
-		time_elapsed = System.currentTimeMillis();
-		ll.write(2, "Operation begin");
-		while(cc.getImage())
-			ee.convert_and_compound();
-		ll.write(2, "Operation complete. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
+		ll.write(2, "Pages Acquired. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
 		*/
+		
+		ll.write(2, "Loading excel data\r\n");
+		ExcelParser ep = new ExcelParser(ll);
+		ep.getExcelFile(DEFINE.EXCEL_FILE_PATH, DEFINE.ROWS, DEFINE.COLUMNS);
+		
 
 		ll.write(2, "All operations complete at " + dateFormat.format(new Date()) + ". Took " + (System.currentTimeMillis() - time_start) + "ms.\r\n");
 		ll.write(2, "Performing cleanup.\r\n\r\n");
 		time_elapsed = System.currentTimeMillis();
 		
-		cc.close();
+		//cc.close();
 		ll.close();
 		
 		System.out.println("Cleanup complete. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.");

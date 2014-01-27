@@ -4,3 +4,16 @@
 .project
 *.prefs
 *.class
+*.html
+*.png
+*.jar
+*.gif
+*.tar
+*.css
+*.jpg
+*.ico
+*.rss
+*.xml
+package-list
+NOTICE
+LICENSE
