@@ -1,8 +1,25 @@
 
 Starting Grade Automation Engine v0.0
-Starting at 2014/01/25 22:01:08
+Starting at 2014/02/10 00:17:36
+Starting Client.
+Starting web driver
+Loading page http://algorithmics.bu.edu/twiki/bin/view/EC504admin/HomeworkOneMaster
+Client ready. Took 21832ms.
+Dealing with login
+Checking if logged in
+Logging in
+Getting username
+Getting password
+Login complete. Took 5049ms.
+Starting Link Parser.
+Link Parser ready. Took 152ms.
+Parsing Links.
+Parsing Links
+Writing to str.txt
+Writing to C:\Users\Mikhail\Desktop\Dropbox\EC504 Grading\Solutions\HomeworkOne\links.txt
+Parsing complete. Took 1717ms.
 Loading excel data
 Starting ExcelParser
-All operations complete at 2014/01/25 22:01:08. Took 450ms.
+All operations complete at 2014/02/10 00:18:05. Took 29076ms.
 Performing cleanup.
 

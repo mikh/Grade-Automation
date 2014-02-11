@@ -15,6 +15,7 @@ import web.Client;
 import parser.LinkParser;
 import parser.ExcelParser;
 import robot.Robot_controller;
+import data_structure.Student;
 
 
 public class Control {
@@ -29,6 +30,13 @@ public class Control {
 		long time_start = System.currentTimeMillis(), time_elapsed;
 		
 		/*
+		time_elapsed = System.currentTimeMillis();
+		ll.write(2, "Creating Student Structure.\r\n");
+		ArrayList<Student> student_list = new ArrayList<Student>();
+		ll.write(2, "Student structure ready. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
+		*/
+		
+		
 		time_elapsed = System.currentTimeMillis();
 		ll.write(2, "Starting Client.\r\n");
 		Client cc = new Client(DEFINE.BASE_URL, ll);
@@ -48,14 +56,17 @@ public class Control {
 		time_elapsed = System.currentTimeMillis();
 		ll.write(2, "Parsing Links.\r\n");
 		lp.parse_links();
+		lp.print_names_and_links("C:\\Users\\Mikhail\\Desktop\\Dropbox\\EC504 Grading\\Solutions\\HomeworkOne\\links.txt");
 		ll.write(2, "Parsing complete. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
-		
+		/*
 		
 		time_elapsed = System.currentTimeMillis();
 		ll.write(2, "Acquiring pages.\r\n");
 		ArrayList<String> list = lp.get_next_link();
 		while(list.size() > 0){
 			if(!list.get(1).equals("")){
+				Student st = new Student(list.get(0), true, ll);
+				st.link = list.get(1);
 				Tools.delay(1000);
 				System.out.println(list.get(1));
 				cc.getPage(list.get(1));
@@ -80,11 +91,18 @@ public class Control {
 				Tools.delay(1000);
 				String out = Tools.clipboard_to_string();
 				Tools.writeToFile(DEFINE.OUTPUT_FILE_PATH + "\\" + list.get(0) + ".txt", out, false);
+				st.file_location = DEFINE.OUTPUT_FILE_PATH + "\\" + list.get(0) + ".txt";
+				student_list.add(st);
+			}
+			else{
+				student_list.add(new Student(list.get(0), false));
 			}
 			list = lp.get_next_link();
 		}
 		ll.write(2, "Pages Acquired. Took " + (System.currentTimeMillis() - time_elapsed) + "ms.\r\n");
 		*/
+		
+
 		
 		ll.write(2, "Loading excel data\r\n");
 		ExcelParser ep = new ExcelParser(ll);

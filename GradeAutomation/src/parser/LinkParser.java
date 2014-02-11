@@ -88,6 +88,19 @@ public class LinkParser {
 		}
 	}
 	
+	public void print_names_and_links(String file){
+		ll.write(2, "Writing to " + file + "\r\n");
+		try{
+			BufferedWriter bw = new BufferedWriter(new FileWriter(file, false));
+			for(int ii = 0; ii < names.size(); ii++){
+				bw.write(names.get(ii) + " " + links.get(ii)+"\r\n");
+			}
+			bw.close();
+		} catch (IOException e) {
+			ll.write(1,"Write failed!");
+		}
+	}
+	
 	public void print(String file, String str){
 		ll.write(2, "Writing to " + file + "\r\n");
 		try {
