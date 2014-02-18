@@ -1,0 +1,314 @@
+
+Starting Attachment Downloader Engine v0.0
+Starting at 2014/02/17 22:46:26
+Starting Client.
+Client ready. Took 48004ms.
+Logging in.
+Login complete. Took 6653ms.
+Parsing Links file.
+Parsing complete. Took 57ms.
+Obtaining Code Files.
+Obtaining code files for VipulAgarwal
+No code files for VipulAgarwal
+Obtaining code files for RanaAlrabeh
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneRanaAlrabeh/RunningMedian.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneRanaAlrabeh/myBrain.java
+Acquiring contents
+Obtaining code files for TolgaBolukbasi
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneTolgaBolukbasi/CompData.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneTolgaBolukbasi/CompLinkedList.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneTolgaBolukbasi/EfficientMedian.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneTolgaBolukbasi/RunningMedianwComp.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneTolgaBolukbasi/lazyBrain.java
+Acquiring contents
+Obtaining code files for ElvinCako
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneElvinCako/median.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneElvinCako/myBrain.java
+Acquiring contents
+Obtaining code files for YuChen
+No code files for YuChen
+Obtaining code files for JeffreyCraley
+No code files for JeffreyCraley
+Obtaining code files for AshleyCuster
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneAshleyCuster/greedyBrain.java
+Acquiring contents
+Obtaining code files for AnneDuBois
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneAnneDuBois/median.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneAnneDuBois/myBrain-2.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneAnneDuBois/myBrain.java
+Acquiring contents
+Obtaining code files for MarcEder
+No code files for MarcEder
+Obtaining code files for AaronFisherKatz
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneAaronFisherKatz/question_3.zip
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneAaronFisherKatz/question_4.zip
+Obtaining code files for PengGao
+No code files for PengGao
+Obtaining code files for JohnGlynn
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJohnGlynn/greedyBrain.java
+Acquiring contents
+Obtaining code files for AaronHeuckroth
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneAaronHeuckroth/AWH_runningMedian.zip
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneAaronHeuckroth/GreedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneAaronHeuckroth/myBrain_Aaron.java
+Acquiring contents
+Obtaining code files for HengyuHu
+No code files for HengyuHu
+Obtaining code files for ShuranHuang
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneShuranHuang/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneShuranHuang/myBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneShuranHuang/runningMedian.java
+Acquiring contents
+Obtaining code files for YuchenHuang
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneYuchenHuang/myBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneYuchenHuang/problem3.zip
+Obtaining code files for HaitianJin
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneHaitianJin/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneHaitianJin/medianSolver.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneHaitianJin/myBrain.java
+Acquiring contents
+Obtaining code files for QichenJing
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneQichenJing/lazyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneQichenJing/myBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneQichenJing/test.java
+Acquiring contents
+Obtaining code files for HabibKhan
+No code files for HabibKhan
+Obtaining code files for MatthewKidd
+No code files for MatthewKidd
+Obtaining code files for DavidKlaus
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneDavidKlaus/GreedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneDavidKlaus/myBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneDavidKlaus/running_median_solver.zip
+Obtaining code files for JonathanKolnik
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJonathanKolnik/Q1.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJonathanKolnik/myBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJonathanKolnik/myGreedyBrain.java
+Acquiring contents
+Obtaining code files for AudreyLewis
+No code files for AudreyLewis
+Obtaining code files for RuiLi
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneRuiLi/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneRuiLi/myBrain.java
+Acquiring contents
+Obtaining code files for ArtemLosev
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneArtemLosev/question_3.zip
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneArtemLosev/question_4a.zip
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneArtemLosev/question_4b.zip
+Obtaining code files for ConnorMathews
+No code files for ConnorMathews
+Obtaining code files for AlexandreaMellen
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneAlexandreaMellen/Median.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneAlexandreaMellen/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneAlexandreaMellen/myBrain.java
+Acquiring contents
+Obtaining code files for JohanMickos
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJohanMickos/Quantile.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJohanMickos/RunningMedian.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJohanMickos/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJohanMickos/myBrain.java
+Acquiring contents
+Obtaining code files for JohnMoore
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJohnMoore/question_3.zip
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJohnMoore/question_4.zip
+Obtaining code files for BryantMoquist
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneBryantMoquist/P2Median.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneBryantMoquist/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneBryantMoquist/myBrain.java
+Acquiring contents
+Obtaining code files for ChennanNi
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneChennanNi/Test.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneChennanNi/myBrain_1.java
+Acquiring contents
+Obtaining code files for HaifengNi
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneHaifengNi/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneHaifengNi/median.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneHaifengNi/myBrain.java
+Acquiring contents
+Obtaining code files for BenjaminNichols
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneBenjaminNichols/Median.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneBenjaminNichols/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneBenjaminNichols/myBrain.java
+Acquiring contents
+Obtaining code files for CaseyORourke
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneCaseyORourke/RM.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneCaseyORourke/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneCaseyORourke/myBrain.java
+Acquiring contents
+Obtaining code files for OsayanmoOsarenkhoe
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneOsayanmoOsarenkhoe/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneOsayanmoOsarenkhoe/runningMedian.java
+Acquiring contents
+Obtaining code files for CourtneyPacheco
+No code files for CourtneyPacheco
+Obtaining code files for YutengPan
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneYutengPan/GreedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneYutengPan/myBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneYutengPan/problem3.java
+Acquiring contents
+Obtaining code files for JosephRaser
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJosephRaser/lazyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJosephRaser/myBrain.java
+Acquiring contents
+Obtaining code files for GerardoRavago
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneGerardoRavago/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneGerardoRavago/running_median_class.java
+Acquiring contents
+Obtaining code files for OnurSahin
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneOnurSahin/greedyBrain.java
+Acquiring contents
+Obtaining code files for JuanSee
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJuanSee/3.zip
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJuanSee/4_a.zip
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJuanSee/4_b.zip
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJuanSee/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJuanSee/myBrain.java
+Acquiring contents
+Obtaining code files for JasonShum
+No code files for JasonShum
+Obtaining code files for AmitSinha
+No code files for AmitSinha
+Obtaining code files for LukeSorenson
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneLukeSorenson/problem_3.zip
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneLukeSorenson/problem_4.zip
+Obtaining code files for BessieSteinberg
+No code files for BessieSteinberg
+Obtaining code files for JianhuaTan
+No code files for JianhuaTan
+Obtaining code files for DongjieTang
+No code files for DongjieTang
+Obtaining code files for JeannieTrinh
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJeannieTrinh/myBrain.java
+Acquiring contents
+Obtaining code files for WeiWang
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneWeiWang/GreadyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneWeiWang/Median_heap.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneWeiWang/myBrain.java
+Acquiring contents
+Obtaining code files for JonathanWu
+No code files for JonathanWu
+Obtaining code files for CongruiXu
+No code files for CongruiXu
+Obtaining code files for TakaoYamada
+No code files for TakaoYamada
+Obtaining code files for ChengxiYang
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneChengxiYang/Median.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneChengxiYang/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneChengxiYang/maxHeap.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneChengxiYang/minHeap.java
+Acquiring contents
+Obtaining code files for YoumingYe
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneYoumingYe/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneYoumingYe/myBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneYoumingYe/sortTree.java
+Acquiring contents
+Obtaining code files for JohnYing
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJohnYing/Median.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJohnYing/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneJohnYing/myBrain.java
+Acquiring contents
+Obtaining code files for FanghuiZhang
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneFanghuiZhang/GreedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneFanghuiZhang/MaxHeap.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneFanghuiZhang/MinHeap.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneFanghuiZhang/RunningMedian.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneFanghuiZhang/myBrain.java
+Acquiring contents
+Obtaining code files for HansenZhang
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneHansenZhang/HW1Q3.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneHansenZhang/greedyBrain.java
+Acquiring contents
+Found link http://algorithmics.bu.edu/twiki/pub/EC504/HomeworkOneHansenZhang/myBrain.java
+Acquiring contents
+
+Code not obtained for 19 people:
+VipulAgarwal
+YuChen
+JeffreyCraley
+MarcEder
+PengGao
+HengyuHu
+HabibKhan
+MatthewKidd
+AudreyLewis
+ConnorMathews
+CourtneyPacheco
+JasonShum
+AmitSinha
+BessieSteinberg
+JianhuaTan
+DongjieTang
+JonathanWu
+CongruiXu
+TakaoYamada
+
+
+Extensions Seen:
+pdf: 13
+java: 88
+java;rev=1: 9
+java;rev=2: 5
+png: 5
+zip: 15
+class: 2
+Files Obtained. Took 278004ms.
+Sorting Files.
+Files Obtained. Took 0ms.
+All operations complete at 2014/02/17 22:51:59. Took 332719ms.
+Performing cleanup.
+

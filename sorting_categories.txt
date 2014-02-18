@@ -1,0 +1,13 @@
+#category 1 - RunningMedian
+c1_name = RunningMedian
+c1_language = java
+c1_name_contains = {3, Median, Running, median, running}
+c1_file_contains = {runningMedian}
+c1_smart = true
+#category 2 - myBrain
+c2_name = Brain
+c2_language = java
+c2_name_contains = {4, brain, Brain, My, my, greedy, Greedy}
+c2_file_contains = {myBrain}
+c2_smart = true
+#end
