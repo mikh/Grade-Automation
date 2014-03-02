@@ -3,6 +3,7 @@ package basics;
 import java.awt.Toolkit;
 import java.awt.datatransfer.Clipboard;
 import java.awt.datatransfer.DataFlavor;
+import java.awt.datatransfer.StringSelection;
 import java.awt.datatransfer.UnsupportedFlavorException;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -22,6 +23,13 @@ public class Tools {
 			System.exit(-1);
 		}
 		return null;
+	}
+	
+	public static void string_to_clipboard(String str){
+		StringSelection selection = new StringSelection(str);
+		Toolkit toolkit = Toolkit.getDefaultToolkit();
+		Clipboard clipboard = toolkit.getSystemClipboard();
+		clipboard.setContents(selection, selection);
 	}
 	
 	public static void delay(int milliseconds){

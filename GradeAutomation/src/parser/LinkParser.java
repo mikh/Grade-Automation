@@ -121,4 +121,16 @@ public class LinkParser {
 		list_index++;
 		return list;
 	}
+	
+	public ArrayList<String> get_link(String name){
+		ArrayList<String> list = new ArrayList<String>();
+		for(int ii = 0; ii < names.size(); ii++){
+			if(names.get(ii).equals(name)){
+				list.add(name);
+				list.add(links.get(ii));
+				return list;
+			}
+		}
+		return list;
+	}
 }

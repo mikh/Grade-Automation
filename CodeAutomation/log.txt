@@ -1,0 +1,64 @@
+
+Starting Attachment Downloader Engine v0.0
+Starting at 2014/03/01 15:01:18
+Setting Global Variables.
+Global Variables Set. Took 0ms.
+Get Student Files.
+Student Files Obtained. Took 2ms.
+Q4 test.
+AaronFisherKatz
+AaronHeuckroth
+AlexandreaMellen
+AnneDuBois
+ArtemLosev
+AshleyCuster
+AudreyLewis
+BenjaminNichols
+BessieSteinberg
+BryantMoquist
+CaseyORourke
+ChengxiYang
+ChennanNi
+ConnorMathews
+CourtneyPacheco
+DavidKlaus
+DongjieTang
+ElvinCako
+FanghuiZhang
+GerardoRavago
+HabibKhan
+HaifengNi
+HaitianJin
+HansenZhang
+HengyuHu
+JasonShum
+JeannieTrinh
+JeffreyCraley
+JianhuaTan
+JohanMickos
+JohnGlynn
+JohnMoore
+JohnYing
+JonathanKolnik
+JosephRaser
+JuanSee
+LukeSorenson
+MarcEder
+MatthewKidd
+OnurSahin
+OsayanmoOsarenkhoe
+QichenJing
+RanaAlrabeh
+RuiLi
+ShuranHuang
+TakaoYamada
+TolgaBolukbasi
+WeiWang
+YoumingYe
+YuChen
+YuchenHuang
+YutengPan
+Q4 test. Took 40874ms.
+All operations complete at 2014/03/01 15:01:58. Took 40876ms.
+Performing cleanup.
+
